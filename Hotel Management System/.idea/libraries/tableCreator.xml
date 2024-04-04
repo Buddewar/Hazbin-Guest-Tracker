@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tableCreator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tableCreator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tableCreator.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
