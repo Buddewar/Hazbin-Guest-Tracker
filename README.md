@@ -11,5 +11,5 @@ checkout info, etc.
 implemented a robust database schema to store and organize critical hotel data, including guest information, room
 details, service requests like cleaning, car service, employee records
 
-
+• Here is the Demo Video of the Project
 ![Demo Video](https://github.com/Buddewar/Hazbin-Guest-Tracker/blob/main/Demo_video_.gif)
