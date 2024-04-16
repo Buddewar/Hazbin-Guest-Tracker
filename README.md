@@ -10,3 +10,6 @@ checkout info, etc.
 • Used SQL (Structured Query Language) for efficient management of the hotel’s relational database. Designed and
 implemented a robust database schema to store and organize critical hotel data, including guest information, room
 details, service requests like cleaning, car service, employee records
+
+
+![Demo Video](https://github.com/Buddewar/Hazbin-Guest-Tracker/blob/main/Demo_video_.gif)
